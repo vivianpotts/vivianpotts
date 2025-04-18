@@ -1,4 +1,4 @@
-# Hello! I'm Vivian!! 🫶🏽
+# Hello, I'm Vivian!! 🫶🏽
 
 Welcome to my profile! I'm a sophomore at Allegheny College majoring in Computer Science & minoring in Theatre and Film!! Feel free to reach out!!
 
