@@ -1,16 +1,25 @@
-# Hello!! My name is Vivian Potts
+# Hello! I'm Vivian!! 🫶🏽
 
-<!--
-**vivianpotts/Vivianpotts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! I'm a sophomore at Allegheny College majoring in Computer Science & minoring in Theatre and Film!! Feel free to reach out!!
 
-Here are some ideas to get you started:
+### More about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class ME:
+
+    def __init__(self):
+        self.name = "Vivian Potts"
+        self.role = "Software Engineer"
+        self.codelanguages = ["python", "c++"]
+        self.hobbies = ["archery", "coding", "eating"]
+
+    def say_hi(self):
+        print("Let's connect!")
+
+
+me = ME()
+me.say_hi()
+```
