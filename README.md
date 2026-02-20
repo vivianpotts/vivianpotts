@@ -12,9 +12,9 @@ class ME:
 
     def __init__(self):
         self.name = "Vivian Potts"
-        self.role = "Software Engineer"
-        self.codelanguages = ["python", "c++"]
-        self.hobbies = ["archery", "coding", "eating"]
+        self.role = "Computer Science Major"
+        self.codelanguages = ["python", "learning c", "learning html"]
+        self.hobbies = ["archery", "coding", "eating", "film nerd"]
 
     def say_hi(self):
         print("Let's connect!")
